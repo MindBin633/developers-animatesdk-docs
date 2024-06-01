@@ -1,11 +1,5 @@
-
----
-title: Animate JSAPI Documentation
-description: This is the home page of Animate APIs
----
-
-# Animate JSAPI Documentation      
- 
+# 中文版 Adobe Animate JSFL API 文档
+为了学习JSFL脚本提高使用Adobe Animate效率，我需要查看[JSFL API官方文档](https://github.com/AdobeDocs/developers-animatesdk-docs)，但是官方文档默认是英文很不舒服，所以有了这个仓库，提供JSFL API文档的中文版本，方便学习和查阅
 
 ## Introduction
 
